@@ -2,9 +2,9 @@ import 'dart:convert';
 
 class RegisterRequestModel {
 //   {
-//     "email":"saiful@gmail.com",
+//     "email":"puji@gmail.com",
 //     "password": "12345678",
-//     "name":"saiful"
+//     "name":"puji"
 // }
 
   final String email;
